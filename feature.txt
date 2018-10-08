@@ -4,3 +4,4 @@ feature-AµÄÌá½»
 feature-AµÄsecond commit
 masterµÄÌá½»
 remote somebody commit;
+local master commit to remote feature;
