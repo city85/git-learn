@@ -1,5 +1,6 @@
 init feature
 origin/feature-A
-feature-A���ύ
-feature-A��second commit
-master���ύ
+feature-AµÄÌá½»
+feature-AµÄsecond commit
+masterµÄÌá½»
+remote somebody commit;
