@@ -5,3 +5,4 @@ feature-AµÄsecond commit
 masterµÄÌá½»
 remote somebody commit;
 local master commit to remote feature;
+local feature commit to remote master;
